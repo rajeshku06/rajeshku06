@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi 👋 I'm Rajesh Kumar
 
 🎓 Information Technology Student  
