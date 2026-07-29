@@ -11,6 +11,7 @@
 - Git & GitHub
 
 ### 📌 Projects
+- AI-based Cost-Effective Tool for Computer Aided Diagnosis of Multiple Ocular Disorders 
 - Python Voice Assistant
 - Games using Python (Snake, Pong)
 - Netflix Website Clone
